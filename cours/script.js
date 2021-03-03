@@ -1,4 +1,5 @@
-/*
+"use strict"; // строгий режим
+
 let und;
 console.log(und);
 const obj = {
@@ -18,14 +19,13 @@ answers[0] = '0';
 answers[1] = '1';
 answers[2] = '2';
 document.write(answers);
-*/ 
 
 const category = 'cat';
 
 console.log(`https://test/${category}.html`);
 
 
-// Операторы
+// -------------- Операторы -------------- //
 console.log('test' + 4); // Test4
 console.log(+'4'); // Число 4 (унарный плюс)
 let test = 40;
@@ -50,3 +50,5 @@ console.log(true || false); // true оператор логическое или
 console.log(!false); // true оператор отрицание
 console.log(42 != '42'); // false 
 console.log(42 !== '42'); // true
+
+// --------------  -------------- //
