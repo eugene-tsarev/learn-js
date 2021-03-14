@@ -2,7 +2,7 @@ const data = {
     'изучить в будущем': [
         'git https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/typeof',
         'тип данных Symbol',
-    ]
+    ],
     'Подготовка к работе': {
         'Как проходить данный курс': {
             'советы': [
